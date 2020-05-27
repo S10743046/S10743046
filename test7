@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+<div id="nav"></div>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+<script>
+	$("#nav").load("nav.html");
+</script>
+	<p>this is page7.</p>
+<a href="
+	 mailto:s10743049@ems.tcust.edu.tw?subject=hell to tcust&body=hi, i am a student in tcust">寄信給s10743049</a>
+	
+</body>
+</html>
